@@ -202,6 +202,3 @@ https://www.kaggle.com/keitazoumana/topic-modeling-with-lda </li>
 <li> Number of active COVID cases, recoveries and deaths for the three months </li> 
 
 <br><br>
-
-
-This project was made in collaboration with <a href="https://github.com/shahharsh2896">Harsh Shah</a> and <a href="https://github.com/vivekkumar239/">Vivek Kumar</a>, do check out some of the amazing projects they've worked on.
